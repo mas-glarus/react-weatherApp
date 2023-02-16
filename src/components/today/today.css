@@ -1,0 +1,15 @@
+.today-container {
+    background-color: rgba(128, 128, 128, 0.468);
+    color: rgb(213, 213, 213);
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.today-container img {
+    width: 80%;
+}
